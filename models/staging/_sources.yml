@@ -1,0 +1,9 @@
+sources:
+  - name: raw 
+    database: DB_ANALYTICS
+    schema: RAW_SCHEMA
+    tables:
+      - name: customers
+      - name: orders
+      - name: products
+      
